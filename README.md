@@ -1,7 +1,7 @@
 # 26-ary-Tree
 
 
-A speed and space effiecient word bank implemented as a 26-ary tree to support the english alphabet. 
+A speed and space effiecient word bank implemented as a 26-ary tree to support the english alphabet implemented in C++. 
 
 How to use build/use:
   1. You must include the class as: #include "Trie.h"
