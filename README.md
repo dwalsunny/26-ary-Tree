@@ -1,4 +1,9 @@
 # 26-ary-Tree
 
 
-An n-ary tree where n = 26.  Each parent has 26 children, each representing a letter in the alphabet.  This 26-ary tree was used to store a word bank.
+A speed and space effiecient word bank implemented as a 26-ary tree to support the english alphabet. 
+
+How to use build/use:
+  1. You must include the class as: #include "Trie.h"
+  2. The class can be declared as: Trie* trie = new Trie();
+  3. The interface (members and methods) can be seen in Trie.h header file.
