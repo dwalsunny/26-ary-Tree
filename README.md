@@ -7,3 +7,7 @@ How to use build/use:
   1. You must include the class as: #include "Trie.h"
   2. The class can be declared as: Trie* trie = new Trie();
   3. The interface (members and methods) can be seen in Trie.h header file.
+
+Improvements:
+  1.  Separate the interface and implementation into Trie.h and Trie.cpp files respectivley
+
